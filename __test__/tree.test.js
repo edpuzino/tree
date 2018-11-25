@@ -50,11 +50,5 @@ describe('tree.js', () => {
     expect(maxValue).toEqual(22);    
   });
 
-  it('search for a specific node', () => {
-    let tree = new BinarySearchTree();
-    let values = a;
-    values.map(value => tree.add(value));
-    let searchNode = tree.search(17);
-    expect(searchNode).toEqual(17);    
-  });
+  
 });
