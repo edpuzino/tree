@@ -1,4 +1,8 @@
+[![Build Status](https://www.travis-ci.org/edpuzino/tree.svg?branch=master)](https://www.travis-ci.org/edpuzino/tree)
 
+https://www.travis-ci.org/edpuzino/tree
+
+https://ed-tree.herokuapp.com/
 
 # Trees
 
